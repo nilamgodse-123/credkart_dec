@@ -1,0 +1,209 @@
+2024-12-07 22:55:48,450 - INFO - test_verify_CredKart_Url_001 - 32 -  This is info
+2024-12-07 22:55:48,452 - WARNING - test_verify_CredKart_Url_001 - 33 -  This is warning
+2024-12-07 22:55:48,453 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:55:48,454 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 22:56:53,308 - INFO - test_verify_CredKart_Url_001 - 32 -  This is info
+2024-12-07 22:56:53,309 - WARNING - test_verify_CredKart_Url_001 - 33 -  This is warning
+2024-12-07 22:56:53,309 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:56:53,309 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 22:58:28,735 - WARNING - test_verify_CredKart_Url_001 - 33 -  This is warning
+2024-12-07 22:58:28,736 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:58:28,737 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 22:59:06,575 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:59:06,576 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 23:06:47,403 - INFO - test_verify_CredKart_Url_001 - 36 -  
+Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:06:49,525 - INFO - test_verify_CredKart_Url_001 - 38 -  Opneing Browser
+2024-12-07 23:06:49,527 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:06:49,527 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:06:49,556 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-07 23:06:49,557 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-07 23:06:49,811 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-07 23:06:49,812 - INFO - test_verify_CredKart_Url_001 - 53 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-07 23:07:54,667 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:07:57,128 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:07:57,128 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:07:57,128 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:07:57,137 - INFO - test_verify_CredKart_Url_001 - 49 -  Taking Screenshot
+2024-12-07 23:07:57,403 - INFO - test_verify_CredKart_Url_001 - 51 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:07:59,553 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:08:00,345 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:08:00,346 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:08:00,346 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:08:00,367 - INFO - test_verify_CredKart_Url_001 - 49 -  Taking Screenshot
+2024-12-07 23:08:00,659 - INFO - test_verify_CredKart_Url_001 - 51 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:09:26,895 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:09:31,066 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:09:31,067 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:09:31,067 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:09:31,079 - INFO - test_verify_CredKart_Url_001 - 49 -  Taking Screenshot
+2024-12-07 23:09:31,304 - INFO - test_verify_CredKart_Url_001 - 51 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:10:59,818 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:11:01,913 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:11:01,913 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:11:01,913 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:11:01,926 - INFO - test_verify_CredKart_Url_001 - 50 -  Taking Screenshot
+2024-12-07 23:11:02,175 - INFO - test_verify_CredKart_Url_001 - 52 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:11:02,176 - INFO - test_verify_CredKart_Url_001 - 53 -  Testcase test_verify_CredKart_Url_001 is completed
+
+# 7 :30 am to 9:30
+# 10:15 to 12 :302024-12-08 16:52:22,602 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 16:52:29,908 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 16:52:29,908 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 16:52:29,908 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 16:52:29,926 - INFO - test_verify_CredKart_Url_001 - 50 -  Taking Screenshot
+2024-12-08 16:52:30,174 - INFO - test_verify_CredKart_Url_001 - 52 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-08 16:52:30,175 - INFO - test_verify_CredKart_Url_001 - 53 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 16:55:33,328 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 16:55:41,485 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 16:55:41,486 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 16:55:41,486 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 16:55:41,505 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-08 16:55:41,505 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-08 16:55:41,713 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-08 16:55:41,713 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 17:37:08,355 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 17:37:11,470 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 17:37:11,473 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 17:37:11,474 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 17:37:36,906 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-08 17:37:36,906 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-08 17:37:37,190 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-08 17:37:37,190 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 17:43:11,643 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 17:43:21,968 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 17:43:21,968 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 17:43:21,969 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 17:43:21,988 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-08 17:43:21,989 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-08 17:43:22,191 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-08 17:43:22,191 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 17:44:42,197 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 17:44:45,900 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 17:44:45,901 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 17:44:45,901 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 17:44:45,925 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-08 17:44:45,925 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-08 17:44:46,151 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-08 17:44:46,151 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 17:45:31,986 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 17:45:34,037 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 17:45:34,037 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 17:45:34,037 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 17:45:41,159 - INFO - test_verify_CredKart_Url_001 - 50 -  Taking Screenshot
+2024-12-08 17:45:41,389 - INFO - test_verify_CredKart_Url_001 - 52 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-08 17:45:41,389 - INFO - test_verify_CredKart_Url_001 - 53 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 17:50:05,143 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 17:50:16,916 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 17:50:16,916 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 17:50:16,916 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 17:50:16,942 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-08 17:50:16,942 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-08 17:50:17,211 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-08 17:50:17,211 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-08 17:53:35,133 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-08 17:55:01,685 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-08 17:55:01,685 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-08 17:55:01,685 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-08 17:55:01,703 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-08 17:55:01,703 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-08 17:55:01,876 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-08 17:55:01,877 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-09 10:19:49,800 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 10:20:38,400 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-09 10:20:38,401 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-09 10:20:38,401 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-09 10:20:38,435 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-09 10:20:38,435 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-09 10:20:38,672 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-09 10:20:38,672 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-09 11:38:59,689 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 11:38:59,689 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 11:39:06,563 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-09 11:39:06,563 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-09 11:39:06,563 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-09 11:39:06,563 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-09 11:39:06,563 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-09 11:39:06,563 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-09 11:39:06,578 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-09 11:39:06,578 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-09 11:39:06,578 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-09 11:39:06,578 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-09 11:39:06,741 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-09 11:39:06,741 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-09 11:39:06,741 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-09 11:39:06,741 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-09 11:39:17,707 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-09 11:39:17,707 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-09 11:39:17,708 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 30 -  Opening Browser
+2024-12-09 11:39:17,708 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 30 -  Opening Browser
+2024-12-09 11:39:19,720 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-09 11:39:19,720 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-09 11:39:19,721 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 35 -  Reading data from Excel
+2024-12-09 11:39:19,721 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 35 -  Reading data from Excel
+2024-12-09 11:39:19,721 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading the number of rows from Excel
+2024-12-09 11:39:19,721 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading the number of rows from Excel
+2024-12-09 12:40:31,918 - WARNING - _process_logs - 138 -  There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-12-09 12:40:31,918 - WARNING - _process_logs - 138 -  There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-12-09 12:40:34,174 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 12:40:34,174 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 12:40:38,140 - WARNING - _process_logs - 138 -  There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-12-09 12:40:38,140 - WARNING - _process_logs - 138 -  There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-12-09 12:40:39,458 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-09 12:40:39,458 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-09 12:40:39,458 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 30 -  Opening Browser
+2024-12-09 12:40:39,458 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 30 -  Opening Browser
+2024-12-09 14:50:52,412 - WARNING - _process_logs - 138 -  Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-12-09 14:50:52,412 - WARNING - _process_logs - 138 -  Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-12-09 14:50:54,392 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 14:50:54,392 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-09 14:50:57,981 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-09 14:50:57,981 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-09 14:50:57,981 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-09 14:50:57,981 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-09 14:50:57,982 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-09 14:50:57,982 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-09 14:50:58,009 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-09 14:50:58,009 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-09 14:50:58,009 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-09 14:50:58,009 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-09 14:50:58,249 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-09 14:50:58,249 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-09 14:50:58,250 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-09 14:50:58,250 - INFO - test_verify_CredKart_Url_001 - 47 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-09 14:51:09,697 - WARNING - urlopen - 870 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0D4FED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b/url
+2024-12-09 14:51:09,697 - WARNING - urlopen - 870 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0D4FED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b/url
+2024-12-09 14:51:13,788 - WARNING - urlopen - 870 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0D4F750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b/url
+2024-12-09 14:51:13,788 - WARNING - urlopen - 870 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0D4F750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b/url
+2024-12-09 14:51:17,843 - WARNING - urlopen - 870 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0A4D350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b/url
+2024-12-09 14:51:17,843 - WARNING - urlopen - 870 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0A4D350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b/url
+2024-12-09 14:51:26,338 - WARNING - urlopen - 870 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0AC8170>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b
+2024-12-09 14:51:26,338 - WARNING - urlopen - 870 -  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0AC8170>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b
+2024-12-09 14:51:30,452 - WARNING - urlopen - 870 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0E1AF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b
+2024-12-09 14:51:30,452 - WARNING - urlopen - 870 -  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0E1AF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b
+2024-12-09 14:51:34,501 - WARNING - urlopen - 870 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0E1B350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b
+2024-12-09 14:51:34,501 - WARNING - urlopen - 870 -  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000283B0E1B350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c83ff1cb8fe0f303ad402c77fc5c995b
+2024-12-09 14:51:45,034 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-09 14:51:45,034 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-09 14:51:45,034 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 30 -  Opening Browser
+2024-12-09 14:51:45,034 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 30 -  Opening Browser
+2024-12-09 14:51:48,223 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-09 14:51:48,223 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-09 14:51:48,223 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 35 -  Reading data from Excel
+2024-12-09 14:51:48,223 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 35 -  Reading data from Excel
+2024-12-09 14:51:48,224 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading the number of rows from Excel
+2024-12-09 14:51:48,224 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading the number of rows from Excel

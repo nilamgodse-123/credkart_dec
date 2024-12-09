@@ -1,0 +1,49 @@
+2024-12-07 22:55:48,450 - INFO - test_verify_CredKart_Url_001 - 32 -  This is info
+2024-12-07 22:55:48,452 - WARNING - test_verify_CredKart_Url_001 - 33 -  This is warning
+2024-12-07 22:55:48,453 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:55:48,454 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 22:56:53,308 - INFO - test_verify_CredKart_Url_001 - 32 -  This is info
+2024-12-07 22:56:53,309 - WARNING - test_verify_CredKart_Url_001 - 33 -  This is warning
+2024-12-07 22:56:53,309 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:56:53,309 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 22:58:28,735 - WARNING - test_verify_CredKart_Url_001 - 33 -  This is warning
+2024-12-07 22:58:28,736 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:58:28,737 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 22:59:06,575 - ERROR - test_verify_CredKart_Url_001 - 34 -  This is error
+2024-12-07 22:59:06,576 - CRITICAL - test_verify_CredKart_Url_001 - 35 -  This is critical
+2024-12-07 23:06:47,403 - INFO - test_verify_CredKart_Url_001 - 36 -  
+Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:06:49,525 - INFO - test_verify_CredKart_Url_001 - 38 -  Opneing Browser
+2024-12-07 23:06:49,527 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:06:49,527 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:06:49,556 - INFO - test_verify_CredKart_Url_001 - 42 -  Page Title:'CredKart' is  matches with expected title
+2024-12-07 23:06:49,557 - INFO - test_verify_CredKart_Url_001 - 44 -  Taking Screenshot
+2024-12-07 23:06:49,811 - INFO - test_verify_CredKart_Url_001 - 46 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-07 23:06:49,812 - INFO - test_verify_CredKart_Url_001 - 53 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-07 23:07:54,667 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:07:57,128 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:07:57,128 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:07:57,128 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:07:57,137 - INFO - test_verify_CredKart_Url_001 - 49 -  Taking Screenshot
+2024-12-07 23:07:57,403 - INFO - test_verify_CredKart_Url_001 - 51 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:07:59,553 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:08:00,345 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:08:00,346 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:08:00,346 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:08:00,367 - INFO - test_verify_CredKart_Url_001 - 49 -  Taking Screenshot
+2024-12-07 23:08:00,659 - INFO - test_verify_CredKart_Url_001 - 51 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:09:26,895 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:09:31,066 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:09:31,067 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:09:31,067 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:09:31,079 - INFO - test_verify_CredKart_Url_001 - 49 -  Taking Screenshot
+2024-12-07 23:09:31,304 - INFO - test_verify_CredKart_Url_001 - 51 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:10:59,818 - INFO - test_verify_CredKart_Url_001 - 36 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-07 23:11:01,913 - INFO - test_verify_CredKart_Url_001 - 38 -  Opening Browser
+2024-12-07 23:11:01,913 - INFO - test_verify_CredKart_Url_001 - 39 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-07 23:11:01,913 - INFO - test_verify_CredKart_Url_001 - 40 -  Checking Page Title
+2024-12-07 23:11:01,926 - INFO - test_verify_CredKart_Url_001 - 50 -  Taking Screenshot
+2024-12-07 23:11:02,175 - INFO - test_verify_CredKart_Url_001 - 52 -  Testcase test_verify_CredKart_Url_001 is failed
+2024-12-07 23:11:02,176 - INFO - test_verify_CredKart_Url_001 - 53 -  Testcase test_verify_CredKart_Url_001 is completed
+
